@@ -2,7 +2,7 @@
   "name": "roomies-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://subhamgupta28.github.io/roomies-web",
+  "homepage": "https://mayankmohak.github.io/roomies-web",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
